@@ -13,7 +13,9 @@ El aplicativo web se desarrollo como una SPA basado en 4 visualizaciones, cada u
 
 ## Otros repositorios usados:
 > API con el modelo entrenado: https://github.com/dgilrua/Api_modelo_accidentalidad
+
 > Enlace para consumir la api: https://accidentalidad-api.onrender.com
+
 > Aplicacion: https://github.com/dgilrua/aplicativo_accidentalidad_medellin
 
 ## Integrantes:
