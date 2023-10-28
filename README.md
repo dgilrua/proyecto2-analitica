@@ -4,6 +4,9 @@ Proyecto #2 asignatura fundamentos de analítica: Prediccion de accidentes
 ## Aplicativo Web:
 > https://accidentalidad-medellin.onrender.com
 
+## Reporte tecnico:
+> https://accidentalidad-medellin-fdea.blogspot.com/p/reporte-tecnico-realizado-por-david-gil.html
+
 ## Informacion adicional:
 El proyecto se compone de un notebook y un aplicativo web en el cual se encuetran 4 componentes principales: Prediccion, Agrupamiento, Visualizacion y video promocional
 
