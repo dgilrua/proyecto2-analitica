@@ -12,7 +12,8 @@ El notebook describe de forma detallada el paso a paso seguido, desde la importa
 El aplicativo web se desarrollo como una SPA basado en 4 visualizaciones, cada uno perteneciente a los requerimentos solicitados en la rubrica del trabajo 
 
 ## Otros repositorios usados:
-> API con el modelo entrenado: https://github.com/dgilrua/Api_modelo_accidentalidad - https://accidentalidad-api.onrender.com
+> API con el modelo entrenado: https://github.com/dgilrua/Api_modelo_accidentalidad
+> Enlace para consumir la api: https://accidentalidad-api.onrender.com
 > Aplicacion: https://github.com/dgilrua/aplicativo_accidentalidad_medellin
 
 ## Integrantes:
